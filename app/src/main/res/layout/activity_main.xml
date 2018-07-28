@@ -31,6 +31,7 @@
             android:numColumns="auto_fit"
             android:scrollbars="none"
             android:stretchMode="columnWidth"
+            android:clickable="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 
@@ -42,6 +43,7 @@
             android:verticalSpacing="4dp"
             android:columnWidth="40dp"
             android:numColumns="auto_fit"
+            android:clickable="true"
             android:scrollbars="none"
             android:stretchMode="columnWidth"
             android:layout_width="match_parent"
